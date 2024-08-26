@@ -1,4 +1,4 @@
- ###👋 Hi, I'm Emil!
+👋 Hi, I'm Emil!
  I'm an **Aspiring Full-Stack Developer** with a passion for both frontend and backend technologies.<br><br> 🔭 I’m currently working on<br>- An **E-commerce Website** with ASP.NET Core.<br><br> 👯 I’m looking to collaborate on<br>- Open source **web development** projects.<br><br>## 🌱 I’m currently learning<br>- **JAVA** and advanced **Node.js** concepts.<br><br> 💬 Ask me about<br>- **React**, **C#**, and **web scraping**.<br><br> ⚡ Old Project topics<br>- I built **e-commerce site** from scratch using **.NET** framwork! <br>- I built a **Steam** platform with new, fresh design (my design) from scratch using **React JS**!
 
 
