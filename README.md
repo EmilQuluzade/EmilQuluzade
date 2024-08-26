@@ -3,14 +3,14 @@
 <table style="border: none;">
   <tr>
     <td style="border: none;">
-      🔭 Currently working on an **E-commerce Website** with ASP.NET Core.<br>
-      🌱 Learning **Java** and advanced **Node.js**.<br>
-      🤝 Looking to collaborate on **web development** projects.<br>
-      💬 Ask me about **React**, **C#**, and **web scraping**.<br>
-      ⚡ Projects: **E-commerce site** using **.NET framework**, **STEAM** platform redesign (by me) using **REACT**.
+      <h4>🔭 Currently working on an <i>E-commerce Website</i> with <i>ASP.NET Core</i>.</h4>
+      <h4>🌱 Learning <i>Java</i> and advanced <i>Node.js</i>.</h4>
+      <h4>🤝 Looking to collaborate on <i>web development</i> projects.</h4>
+      <h4>💬 Ask me about <i>React**, **C#**, and **web scraping</i>.</h4>
+      <h4>⚡ Projects: <i>E-commerce site</i> using <i>.NET framework, STEAM</i> platform redesign (by me) using <i>REACT</i>.</h4>
     </td>
     <td style="border: none; vertical-align: top;">
-      <img src="https://github.com/user-attachments/assets/cac5cfb0-51a1-4846-a522-925d3f72ed21" alt="Gif" width="300"/>
+      <img src="https://github.com/user-attachments/assets/cac5cfb0-51a1-4846-a522-925d3f72ed21" alt="Gif" width="400"/>
     </td>
   </tr>
 </table>
