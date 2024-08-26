@@ -1,9 +1,21 @@
 # 👋 Hi, I'm Emil!<br><br>
-🔭 Currently working on an **E-commerce Website** with ASP.NET Core. 
-🌱 Learning **Java** and advanced **Node.js**.  
-🤝 Looking to collaborate on **web development** projects.  
-💬 Ask me about **React**, **C#**, and **web scraping**.  
-⚡ Projects:  **e-commerce site** using **.NET framework**, **STEAM** platform redesign (by me) using **REACT**
+
+<table style="border: none;">
+  <tr>
+    <td style="border: none;">
+      🔭 Currently working on an **E-commerce Website** with ASP.NET Core.<br>
+      🌱 Learning **Java** and advanced **Node.js**.<br>
+      🤝 Looking to collaborate on **web development** projects.<br>
+      💬 Ask me about **React**, **C#**, and **web scraping**.<br>
+      ⚡ Projects: **E-commerce site** using **.NET framework**, **STEAM** platform redesign (by me) using **REACT**.
+    </td>
+    <td style="border: none; vertical-align: top;">
+      <img src="https://github.com/user-attachments/assets/cac5cfb0-51a1-4846-a522-925d3f72ed21" alt="Gif" width="200"/>
+    </td>
+  </tr>
+</table>
+
+
 
 
 
