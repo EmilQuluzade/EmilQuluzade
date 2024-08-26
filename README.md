@@ -10,7 +10,7 @@
       ⚡ Projects: **E-commerce site** using **.NET framework**, **STEAM** platform redesign (by me) using **REACT**.
     </td>
     <td style="border: none; vertical-align: top;">
-      <img src="https://github.com/user-attachments/assets/cac5cfb0-51a1-4846-a522-925d3f72ed21" alt="Gif" width="200"/>
+      <img src="https://github.com/user-attachments/assets/cac5cfb0-51a1-4846-a522-925d3f72ed21" alt="Gif" width="300"/>
     </td>
   </tr>
 </table>
