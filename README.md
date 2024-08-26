@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Emil!<br><br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/28bac09f-6acc-4c86-9ee3-bcf705887149" alt="Gif"/>
+</p>
+
+<h1 align="center">👋 Hi, I'm Emil!</h1>
 
 <table style="border: none;">
   <tr>
